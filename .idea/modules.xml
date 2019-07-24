@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/cxqmmall.iml" filepath="$PROJECT_DIR$/cxqmmall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/uni-app-cxq.iml" filepath="$PROJECT_DIR$/.idea/uni-app-cxq.iml" />
     </modules>
   </component>
 </project>
